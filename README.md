@@ -1,4 +1,4 @@
 tutorial
 ========
 
-short intruductions
+short introductions
